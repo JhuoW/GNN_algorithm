@@ -9,3 +9,4 @@ My email: zhuow5@mail2.sysu.edu.cn
 
 1. GCN 2020/10/17
 2. GAT 2020/10/22 (Some code refer to [keras_gat](https://github.com/danielegrattarola/keras-gat))
+3. GraphSAGE 2020/10/26
