@@ -7,6 +7,6 @@ My email: zhuow5@mail2.sysu.edu.cn
 
 已完成(Completed)：
 
-1. GCN 2020/10/17
-2. GAT 2020/10/22 (Some code refer to [keras_gat](https://github.com/danielegrattarola/keras-gat))
-3. GraphSAGE 2020/10/26
+1. GCN [[Paper]](https://arxiv.org/pdf/1609.02907.pdf) 2020/10/17
+2. GAT [[Paper]](https://arxiv.org/pdf/1710.10903.pdf) 2020/10/22 (Some code refer to [keras_gat](https://github.com/danielegrattarola/keras-gat))
+3. GraphSAGE [[Paper]](https://arxiv.org/pdf/1706.02216.pdf) 2020/10/26
