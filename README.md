@@ -1,4 +1,4 @@
-# GNN_algorithm
+# GNN Algorithm
 本菜鸟对一些GNN算法的拙劣复现 基于Tensorflow2.3, 如果您对我的代码有什么修改意见，欢迎告诉我
 
 Tensorflow2.x implementations of some Graph Neural Networks.  My implementations are crude, so if you have some suggestions about my codes, please let me know. Thank you very much. 
@@ -12,3 +12,20 @@ My email: zhuow5@mail2.sysu.edu.cn
 3. GraphSAGE [[Paper]](https://arxiv.org/pdf/1706.02216.pdf) 2020/10/26
 4. GGNN [[Gated Graph Sequence Neural Networks]](https://arxiv.org/pdf/1511.05493.pdf) (For Node Classification Task on Cora, GGNN is overfitting in my implementation.) 2020/11/03 
 5. GIN [[How Powerful are Graph Neural Networks?]](https://arxiv.org/pdf/1810.00826.pdf) 2020/11/04
+
+continuing ...
+
+# Some Useful Repo/Library
+[CogDL](https://github.com/THUDM/cogdl)
+
+[DGL](https://www.dgl.ai)
+
+[Spektral](https://github.com/danielegrattarola/spektral)
+
+[PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric)
+
+[OpenNE](https://github.com/thunlp/OpenNE)
+
+[tf_geometric](https://github.com/CrawlScript/tf_geometric)
+
+[Graph_NN](https://github.com/bknyaz/graph_nn)
