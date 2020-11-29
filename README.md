@@ -14,6 +14,7 @@ My email: zhuow5@mail2.sysu.edu.cn
 5. GIN [[How Powerful are Graph Neural Networks?]](https://arxiv.org/pdf/1810.00826.pdf) 2020/11/04
 6. DiffPool for Graph Classification[[Hierarchical Graph Representation Learning with
 Differentiable Pooling]](https://arxiv.org/pdf/1806.08804.pdf) 2020/11/29 
+
 continuing ...
 
 # Some Useful Repo/Library
