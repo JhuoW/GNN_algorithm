@@ -12,7 +12,8 @@ My email: zhuow5@mail2.sysu.edu.cn
 3. GraphSAGE [[Paper]](https://arxiv.org/pdf/1706.02216.pdf) 2020/10/26
 4. GGNN [[Gated Graph Sequence Neural Networks]](https://arxiv.org/pdf/1511.05493.pdf) (For Node Classification Task on Cora, GGNN is overfitting in my implementation.) 2020/11/03 
 5. GIN [[How Powerful are Graph Neural Networks?]](https://arxiv.org/pdf/1810.00826.pdf) 2020/11/04
-
+6. DiffPool for Graph Classification[[Hierarchical Graph Representation Learning with
+Differentiable Pooling]](https://arxiv.org/pdf/1806.08804.pdf) 2020/11/29 
 continuing ...
 
 # Some Useful Repo/Library
